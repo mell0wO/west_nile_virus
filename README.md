@@ -5,6 +5,8 @@ This project aims to predict the presence of West Nile Virus (WNV) in mosquitoes
 ## Project Overview
 
 The dataset used for this project contains mosquito trap data, weather information, and spray data collected over several years. The main task is to predict whether the West Nile Virus is present in a given mosquito sample based on these environmental variables.
+The project starts by loading the training and testing data, as well as the weather and spray data.
+   - You can download the data used in this project from Kaggle: [West Nile Virus (WNV) Data]([https://www.kaggle.com/competitions/predict-west-nile-virus])
 
 ### Files
 
